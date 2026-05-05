@@ -1,5 +1,5 @@
-Laura Marques
-Estou aprendendo programação: 
--JS
--HTML
--CSS
+- Laura Marques
+- Estou aprendendo programação: 
+- JS
+- HTML
+- CSS
