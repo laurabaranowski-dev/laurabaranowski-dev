@@ -1,5 +1,3 @@
-- Laura Marques
+- Meu nome é Laura Marques
 - Estou aprendendo programação: 
-- JS
-- HTML
-- CSS
+- JS, HTML e CSS
